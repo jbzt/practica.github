@@ -45,7 +45,7 @@ ggsave( plot = grafico1, filename = "grafico.aletas.png", device = "png", path =
 
 
 # graficar un boxplot de masa por sexo del pinguino (una persona hace este)
-
+#eden 
 
 
 
