@@ -41,11 +41,12 @@ grafico1 <- ggplot(data = datos,
 
 grafico1
 
-ggsave( plot = grafico1, filename = "grafico.aletas.png", device = "png", path = "figuras")
+# ggsave( plot = grafico1, filename = "grafico.aletas.png", device = "png", path = "figuras")
 
 
 # graficar un boxplot de masa por sexo del pinguino (una persona hace este)
-#eden 
+# eden 
+# juan
 
 
 
@@ -53,6 +54,7 @@ ggsave( plot = grafico1, filename = "grafico.aletas.png", device = "png", path =
 
 
 
-# cual es la distribucion de especies segun la isla??
 
 
+
+# distribucion oor especie??
